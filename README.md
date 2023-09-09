@@ -2,7 +2,8 @@
 
 
 # ai_mask_detector
-#interesting_porjects
+
+
 #machine_learning
 
 From 2019)
